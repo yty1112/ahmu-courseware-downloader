@@ -62,11 +62,16 @@
 ## 安装
 
 适用于 Edge / Chrome，需要先装一个用户脚本管理器（如 Tampermonkey、Violentmonkey，或国产的「油猴插件-脚本管理器」）。
+<img width="2531" height="102" alt="image" src="https://github.com/user-attachments/assets/95374925-edcf-4ab6-a1b7-8c9903574df3" />
+
+<img width="537" height="99" alt="image" src="https://github.com/user-attachments/assets/61168a26-0ea9-4d53-a46b-b64757f1e20c" />
+
 
 ### 方式：文件导入
 
 1. 把 `ahmu-courseware-downloader.user.js` 下载到本地。
 2. 打开脚本管理器 →「+」→「文件导入」→ 选中该文件。
+<img width="589" height="325" alt="image" src="https://github.com/user-attachments/assets/33939b8d-6ad6-4b38-a444-04dc9a55a7fa" />
 
 
 ---
