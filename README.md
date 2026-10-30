@@ -1,6 +1,8 @@
 # 安医教学平台课件下载助手
 
 一个跑在浏览器里的轻量脚本：在安徽医科大学教学平台（`mobile.ahmu.edu.cn`）的课程页右下角放一个小面板，把整门课的课件、讲义、视频**一次性列出来**，点一下就能下载，不用一个个点开预览页再复制链接。
+<img width="1606" height="1084" alt="image" src="https://github.com/user-attachments/assets/9117c724-9a79-4ff5-b421-31ed8957fe82" />
+
 > 用的不烧心的话，能给我个免费的 star 吗？
 
 
